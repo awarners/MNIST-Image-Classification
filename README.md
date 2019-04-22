@@ -18,6 +18,10 @@ Advanced classifiers:
 * Feedforward Neural Network
 * Convolutional Neural Network
 
+## Data
+
+The [MNIST](http://yann.lecun.com/exdb/mnist/index.html) dataset was used.
+
 ## Authors
 
 * **Gianni Brauwers** 
