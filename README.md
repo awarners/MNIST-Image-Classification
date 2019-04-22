@@ -20,7 +20,7 @@ Advanced classifiers:
 
 ## Data
 
-The [MNIST](http://yann.lecun.com/exdb/mnist/index.html) dataset was used.
+The [MNIST](http://yann.lecun.com/exdb/mnist/index.html) database was used.
 
 ## Authors
 
